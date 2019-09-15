@@ -1,0 +1,12 @@
+h = 1
+mu = 0.01
+beta = 0.5
+gamma = 0.01
+tstart = 0.0
+tend = 10.0
+EPSILON = 0.005
+CROSSOVER_RATE = 0.5
+MUTATION_RATE = 0.8
+POP_SIZE = 1000
+OUTPUT = 0
+MAXGEN = 2000
