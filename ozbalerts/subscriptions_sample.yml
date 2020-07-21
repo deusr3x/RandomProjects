@@ -1,0 +1,11 @@
+-
+  name: name1                     # Name for subscription, not used in code just for record keeping
+  slackuserid: U123456789         # This can be a Slack user ID or a channel name (see below)
+  tags:                           # List of tags to check
+    - key                         # In this example, any title containing the word 'key' will be sent to the above slackuserid
+    - word
+-
+  email: name2
+  slackuserid: '#channelname'
+  tags:
+    - key
